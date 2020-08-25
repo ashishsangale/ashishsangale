@@ -12,8 +12,8 @@
 ```javascript
 const Ashish = {
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker, Git],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Redux, Node, Docker, Git],
+  freetime: ['Reading', 'Hanging out with friends'],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
