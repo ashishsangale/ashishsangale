@@ -8,7 +8,7 @@
 <a href="https://leetcode.com/socialabhis/">
   <img align="left" alt="Ashish's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/abhisheksurve_/">
+<a href="https://www.instagram.com/ashish._.sangale/">
   <img align="left" alt="Ashish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
