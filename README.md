@@ -1,6 +1,4 @@
 <h2> Hi, I'm Ashish,Computer Engineer from Mumbai,India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="230">
-</em></p>
 
 <br/>
 
