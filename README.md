@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ashish,Computer Engineer from Mumbai,India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Ashish,Developer from Mumbai,India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 
 <br/>
 
@@ -23,7 +23,7 @@
 const Ashish = {
   code: [JavaScript, TypeScript, HTML, CSS, Python],
   tools: [React, Redux, Node, Docker, Git],
-  freetime: ['Reading', 'Hanging out with friends', travel],
+  freetime: ['Reading', 'Hanging out with friends', 'Travel'],
   challenge: "Currently focused on React and TypeScript"
 }
 ```
