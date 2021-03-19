@@ -22,8 +22,8 @@
 ```javascript
 const Ashish = {
   code: [JavaScript, TypeScript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Docker, Git],
-  freetime: ['Reading', 'Hanging out with friends', 'Travel'],
+  tools: [React, Redux, Node, Azure devOps, Git],
+  freetime: ['Chess', 'Hanging out with friends', 'Travel'],
   challenge: "Currently focused on React and TypeScript"
 }
 ```
