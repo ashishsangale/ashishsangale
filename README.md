@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a Software Engineer based in Mumbai, India. I'm passionate about Backend Development & System Design.
+I'm a Software Engineer based in Tempe, Arizona. I'm passionate about Backend Development & System Design.
 
 ## About Me
 
